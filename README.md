@@ -3,7 +3,7 @@ Detailed list of software for fresh OS installs
 
 
 ## Windows
-** VLC
+* VLC
 ### Postman
 ### Visual Studio Code
 ### MobaXterm
