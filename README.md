@@ -20,3 +20,9 @@ Detailed list of software for fresh OS installs
   * Cura
   * Fusion 360
   * Adobe Premiere
+
+* VS Code Extensions
+ * Prettier -ESLint
+ * Material
+ * Debugger for Chrome
+ 
